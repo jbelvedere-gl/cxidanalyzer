@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "cxidanalyzer": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "DYNATRACE_FILE_PATH": "dynatrace.xlsx"
+      }
+    }
+  }
+}
